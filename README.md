@@ -1,23 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sourabh Shintre</h1>
+<h1 align="center">Hi 👋, I'm Girish Nikam</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhshintre&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhshintre" /> </p>
 
-- 🌱 I’m currently learning *Data Science*
+- 📫 Reach me at *ngco2903@gmail.com*
 
-- 📫 How to reach me *sourabhshintre7171@gmail.com*
-
-- ⚡ Fun fact *I am funny..*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sourabh shintre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh shintre" height="30" width="40" /></a>
-<a href="https://instagram.com/sourabh_shintre_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourabh_shintre_06" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sourabhshintre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourabhshintre" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sourabhshintre71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sourabhshintre71" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sourabhshintre7171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabhshintre7171" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/girishnikam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Girish Nikam" height="30" width="40" /></a>
+<a href="https://instagram.com/girishnikam27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girishnikam27" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sourabhshintre7171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sourabhshintre7171" height="30" width="40" /></a>
 </p>
 
